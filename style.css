@@ -7,9 +7,15 @@
     width: 100%;
 
     text-align: center;
+
 }
 
 img:hover
 {
     border-radius: 140px;
 }
+body
+{
+    background-color: crimson;  
+}
+
